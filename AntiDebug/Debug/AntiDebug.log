@@ -1,0 +1,5 @@
+﻿D:\VS2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+  dllmain.cpp
+    正在创建库 ..\plugin\AntiDebug.lib 和对象 ..\plugin\AntiDebug.exp
+  AntiDebug.vcxproj -> C:\Users\Canary\Desktop\15PB\第二阶段\MyDebugger\AntiDebug\..\plugin\AntiDebug.dll
